@@ -15,3 +15,4 @@ Teaching Instructions:
 -The table of vocabulary should only have the following columns: Toki Pona, English
 
 Student Input: I am learning Toki Pona.
+
