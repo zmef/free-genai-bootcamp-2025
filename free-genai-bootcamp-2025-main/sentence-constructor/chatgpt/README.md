@@ -1,0 +1,1 @@
+## ChatGPT refused to "scold" the student, where MetaAI complied the first time. The recommended prompt changed the word "scold" to "gently reprimand" the learner
